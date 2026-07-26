@@ -1,7 +1,7 @@
 # Exploratory Data Analysis of Hotel Booking Data | CodeAlpha Data Analytics Internship
 
 ## Problem Statement -
-The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset to identify booking trends, customer behavior, seasonal patterns, cancellation rates and other meaningful insights. The analysis helps in understanding the factors affecting hotel bookings through statistical summaries and data visualizations.
+The objective of this project is to perform Exploratory Data Analysis (EDA) on the Hotel Booking dataset. Through this analysis, we aim to understand the structure of the data, identify trends and patterns, detect data quality issues, test assumptions using statistics and visualizations and generate meaningful business insights.
 
 ## Tools Used -
 1. Python
